@@ -195,3 +195,11 @@ electron-react-app/*.scss.d.ts
 
 # Custom
 test_dir/
+.clinerules-architect
+.clinerules-ask
+.clinerules-code
+memory-bank/activeContext.md
+memory-bank/decisionLog.md
+memory-bank/productContext.md
+memory-bank/progress.md
+memory-bank/systemPatterns.md
